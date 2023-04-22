@@ -1,9 +1,0 @@
-{
-    "Start_Delay": 1,
-    "End_Delay": 5,
-    "Sleep_Activate": false,
-    "Message": 30,
-    "Second_Sleep": 60,
-    "lang_folder": "English",
-    "lang_code": "en"
-}
