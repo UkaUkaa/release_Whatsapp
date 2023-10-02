@@ -1,0 +1,5 @@
+2023-10-02 21:19:39,875 ERROR | Funciton: __fileMenu | 'Ui_MainWindow' object has no attribute 'textSizeFont'
+2023-10-02 21:19:39,876 ERROR | Funciton: __editMenu | 'Ui_MainWindow' object has no attribute 'textSizeFont'
+2023-10-02 21:19:39,877 ERROR | Funciton: __viewMenu | 'Ui_MainWindow' object has no attribute 'textSizeFont'
+2023-10-02 21:19:39,877 ERROR | Funciton: __settingMenu | 'Ui_MainWindow' object has no attribute 'textSizeFont'
+2023-10-02 21:19:39,878 ERROR | Funciton: __toolsMenu | 'Ui_MainWindow' object has no attribute 'textSizeFont'
